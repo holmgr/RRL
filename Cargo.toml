@@ -1,5 +1,5 @@
 [package]
-name = "RRL"
+name = "rrl"
 version = "0.1.0"
 authors = ["holmgr"]
 edition = "2018"
